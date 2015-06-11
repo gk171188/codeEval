@@ -51,7 +51,6 @@ public class KnightMoves {
         		
         		if(line!=null && !"".equalsIgnoreCase(line)){
         			
-        			System.out.println(line+"\n");
         			System.out.println(findMoves(line));
         		}
          }
