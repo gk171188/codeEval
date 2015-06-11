@@ -40,7 +40,7 @@ public class KnightMoves {
 		 
 	 public static void main (String[] args) throws IOException {
        
-    	String filePath="D:\\codeEval\\180.txt";
+    	String filePath="D:\\codeEval\\knightMoves.txt";
         
 		BufferedReader buffer = new BufferedReader(new FileReader(filePath));
         String line;
